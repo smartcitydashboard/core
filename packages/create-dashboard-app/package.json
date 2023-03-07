@@ -1,6 +1,6 @@
 {
-  "name": "create-dashboard-app",
-  "version": "1.0.0",
+  "name": "@smartcitydashboard/create-dashboard-app",
+  "version": "0.0.0",
   "description": "Create Smart City Dashboard apps with one command by superimposing the create-next-app package",
   "main": "index.js",
   "scripts": {
