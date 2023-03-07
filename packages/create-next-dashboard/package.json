@@ -1,0 +1,22 @@
+{
+  "name": "create-next-dashboard",
+  "version": "1.0.0",
+  "description": "Create Smart City Dashboard apps with one command by superimposing the create-next-app package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartcitydashboard/core.git",
+    "directory": "packages/create-next-dashboard"
+  },
+  "keywords": [
+    "next",
+    "smart",
+    "city",
+    "dashboard"
+  ],
+  "author": "Samuel Dietz",
+  "license": "EUPL-1.2"
+}
